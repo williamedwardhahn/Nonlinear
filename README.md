@@ -58,7 +58,7 @@ Python’s strengths
 
 
 Please read Python Notes 1 and the first two pages of Python Notes 2.
-Prepare a new Colab Notebook and copy all of the relevant material from the python notes files to your new Colab notebook.
+Prepare a new Colab Notebook and copy all of the code from the python notes files. Run and document all the code in your new Colab notebook.
 Think of the notebook as a quick access cheat sheet / recipe guide.
 
 Python Notes 1
