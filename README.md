@@ -6,6 +6,8 @@
 
 Start here and familiarize yourself with the tools we will be using:
 
+Github: https://github.com/join
+
 Colab: https://colab.research.google.com/notebooks/welcome.ipynb
 
 Lab Report: https://www.overleaf.com/read/qpfrmtfdjvbp
