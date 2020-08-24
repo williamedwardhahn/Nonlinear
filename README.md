@@ -31,6 +31,9 @@ For each Lab the following will be submitted the following week to your Github:
 
 ## Lab 1
 
+Watch: The Strange New Science of Chaos
+https://www.youtube.com/watch?v=fUsePzlOmxw&list=PLWmIsQcAzRkqmWnt75z5YGhSe3GuhQGjN
+
 From: https://scipy-lectures.org/intro/intro.html#why-python
 
 Why Python?
@@ -59,9 +62,6 @@ https://github.com/williamedwardhahn/Nonlinear/blob/master/Python_Notes2.pdf
 
 
 ## Lab 2 
-
-The Strange New Science of Chaos
-https://www.youtube.com/watch?v=fUsePzlOmxw&list=PLWmIsQcAzRkqmWnt75z5YGhSe3GuhQGjN
 
 <!---
 Chaos Game
