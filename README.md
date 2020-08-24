@@ -4,7 +4,9 @@
 
 ## Setup
 
-Colab: https://colab.research.google.com/notebooks/markdown_guide.ipynb
+Start here and familiarize yourself with the tools we will be using:
+
+Colab: https://colab.research.google.com/notebooks/welcome.ipynb
 
 Lab Report: https://www.overleaf.com/read/qpfrmtfdjvbp
 
