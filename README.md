@@ -35,11 +35,11 @@ Why Python?
 * Visualize results, quickly to understand, but also with high quality figures, for reports or publications.
 
 Python’s strengths
-* Batteries included Rich collection of already existing bricks of classic numerical methods, plotting or data processing tools. We don’t want to re-program the plotting of a curve, a Fourier transform or a fitting algorithm. Don’t reinvent the wheel!
-* Easy to learn Most scientists are not payed as programmers, neither have they been trained so. They need to be able to draw a curve, smooth a signal, do a Fourier transform in a few minutes.
-* Easy communication To keep code alive within a lab or a company it should be as readable as a book by collaborators, students, or maybe customers. Python syntax is simple, avoiding strange symbols or lengthy routine specifications that would divert the reader from mathematical or scientific understanding of the code.
-* Efficient code Python numerical modules are computationally efficient. But needless to say that a very fast code becomes useless if too much time is spent writing it. Python aims for quick development times and quick execution times.
-* Universal Python is a language used for many different problems. Learning Python avoids learning a new software for each new problem.
+* Batteries included - Rich collection of already existing bricks of classic numerical methods, plotting or data processing tools. We don’t want to re-program the plotting of a curve, a Fourier transform or a fitting algorithm. Don’t reinvent the wheel!
+* Easy to learn - Most scientists are not payed as programmers, neither have they been trained so. They need to be able to draw a curve, smooth a signal, do a Fourier transform in a few minutes.
+* Easy communication - To keep code alive within a lab or a company it should be as readable as a book by collaborators, students, or maybe customers. Python syntax is simple, avoiding strange symbols or lengthy routine specifications that would divert the reader from mathematical or scientific understanding of the code.
+* Efficient code - Python numerical modules are computationally efficient. But needless to say that a very fast code becomes useless if too much time is spent writing it. Python aims for quick development times and quick execution times.
+* Universal - Python is a language used for many different problems. Learning Python avoids learning a new software for each new problem.
 
 
 
