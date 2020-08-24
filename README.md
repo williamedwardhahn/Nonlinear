@@ -31,12 +31,13 @@ For each Lab the following will be submitted the following week to your Github:
 
 ## Lab 1
 
-Watch: The Strange New Science of Chaos
+### Watch: 
+The Strange New Science of Chaos
 https://www.youtube.com/watch?v=fUsePzlOmxw&list=PLWmIsQcAzRkqmWnt75z5YGhSe3GuhQGjN
 
 From: https://scipy-lectures.org/intro/intro.html#why-python
 
-Why Python?
+### Why Python?
 * Get data (simulation, experiment control),
 * Manipulate and process data,
 * Visualize results, quickly to understand, but also with high quality figures, for reports or publications.
