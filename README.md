@@ -2,8 +2,6 @@
 
 # Nonlinear 
 
-This online course will be taught as a series of digital laboratory projects.
-
 ## Setup
 
 Colab: https://colab.research.google.com/notebooks/markdown_guide.ipynb
