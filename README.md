@@ -14,8 +14,7 @@ Lab Report: https://www.overleaf.com/read/qpfrmtfdjvbp
 
 Lab Presentation: https://www.overleaf.com/read/xhsvcwnrkzns
 
-Rex Adelberger: 
-Guide to Preparing a Lab Report
+Rex's Guide to Preparing a Lab Report
 
 https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=sharing
 
