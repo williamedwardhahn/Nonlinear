@@ -1,4 +1,4 @@
-<img src=http://images.computerhistory.org/revonline/images/500004490-03-01.jpg?w=600>
+<img src='http://images.computerhistory.org/revonline/images/500004490-03-01.jpg?w=600'>
 
 # Nonlinear
 
