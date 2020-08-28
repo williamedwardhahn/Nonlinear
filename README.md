@@ -68,9 +68,11 @@ Python Notes 2
 https://github.com/williamedwardhahn/Nonlinear/blob/master/Python_Notes2.pdf
 
 
-## Lab 2 
+
 
 <!---
+## Lab 2 
+
 Islands in the sea of complexity
 To appreciate the nature of fractals, recall Galileo’s splendid manifesto that
 ”Philosophy is written in the language of mathematics and its characters are
@@ -86,8 +88,17 @@ all scales.
 From the interview A theory of roughness with B. Mandelbrot [12.19.04]
 
 
+
+### Notebook:
+
 Chaos Game
 https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing
+
+Comment as much of the code as you can. Use the overleaf templates to create a new lab report and a new beamer presentation. Add the output images, code, and commentary from the notebook to each overleaf document.  
+
+
+  -->
+
 
  
  ## Lab 3
@@ -97,6 +108,5 @@ Watch: https://www.youtube.com/watch?v=_eC14GonZnU
 https://colab.research.google.com/drive/1v7iEiXEMq-2YBWQwZ8q8y_slWBNdEcQo?usp=sharing
  
  
- 
-  -->
+
 
