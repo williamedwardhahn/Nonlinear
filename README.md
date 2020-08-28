@@ -73,7 +73,7 @@ https://github.com/williamedwardhahn/Nonlinear/blob/master/Python_Notes2.pdf
 
 ## Lab 2 
 
-Islands in the sea of complexity
+Islands in the Sea of Complexity
 
 "To appreciate the nature of fractals, recall Galileo’s splendid manifesto that
 ”Philosophy is written in the language of mathematics and its characters are
