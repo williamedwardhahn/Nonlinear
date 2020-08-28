@@ -93,7 +93,7 @@ all scales." - A theory of roughness, B. Mandelbrot 12.19.04
 Chaos Game
 https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing
 
-Comment as much of the code as you can. Use the overleaf templates to create a new lab report and a new beamer presentation. Add the output images, code, and commentary from the notebook to each overleaf document.  
+Comment as much of the code as you can, it is ok if you don't understand all of the pieces. Use the overleaf templates to create a new lab report and a new beamer presentation. Add the output images, code, and commentary from the notebook to each overleaf document.  
 
 
 
