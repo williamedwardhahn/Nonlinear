@@ -71,8 +71,9 @@ https://github.com/williamedwardhahn/Nonlinear/blob/master/Python_Notes2.pdf
 
 
 
-## Lab 2 Islands in the sea of complexity
+## Lab 2 
 
+Islands in the sea of complexity
 
 "To appreciate the nature of fractals, recall Galileo’s splendid manifesto that
 ”Philosophy is written in the language of mathematics and its characters are
@@ -85,7 +86,6 @@ world is of infinitely great roughness and complexity. However, the infinite
 sea of complexity includes two islands: one of Euclidean simplicity, and also a
 second of relative simplicity in which roughness is present, but is the same at
 all scales." - A theory of roughness, B. Mandelbrot 12.19.04
-
 
 
 ### Notebook:
