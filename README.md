@@ -86,7 +86,7 @@ But they have turned out not to be sufficient, ”merely” because most of the
 world is of infinitely great roughness and complexity. However, the infinite
 sea of complexity includes two islands: one of Euclidean simplicity, and also a
 second of relative simplicity in which roughness is present, but is the same at
-all scales." - A Theory of Roughness, B. Mandelbrot
+all scales." - A Theory of Roughness, Benoit B. Mandelbrot
 
 
 ### Notebook:
