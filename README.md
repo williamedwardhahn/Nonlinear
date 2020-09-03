@@ -109,7 +109,15 @@ https://www.youtube.com/watch?v=_eC14GonZnU
 
 ### 
 https://colab.research.google.com/drive/1v7iEiXEMq-2YBWQwZ8q8y_slWBNdEcQo?usp=sharing
- -->
+
  
+## Lab 4 
+
+### Watch
+The logistic Map
+https://www.youtube.com/watch?v=ovJcsL7vyrk
+ 
+ 
+  -->
 
 
