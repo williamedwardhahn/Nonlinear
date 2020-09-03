@@ -99,8 +99,7 @@ Comment as much of the code as you can, it is ok if you don't understand all of 
 
 
 
-<!--
- 
+
  ## Lab 3
  
 ### Watch: 
@@ -110,6 +109,9 @@ https://www.youtube.com/watch?v=_eC14GonZnU
 ### Notebook:
 https://colab.research.google.com/drive/1v7iEiXEMq-2YBWQwZ8q8y_slWBNdEcQo?usp=sharing
 
+
+
+<!--
  
 ## Lab 4 
 
