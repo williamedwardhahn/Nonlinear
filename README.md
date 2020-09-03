@@ -107,7 +107,7 @@ Comment as much of the code as you can, it is ok if you don't understand all of 
 https://www.youtube.com/watch?v=_eC14GonZnU
 (Hint watch on 1.5x)
 
-### 
+### Notebook:
 https://colab.research.google.com/drive/1v7iEiXEMq-2YBWQwZ8q8y_slWBNdEcQo?usp=sharing
 
  
@@ -116,7 +116,9 @@ https://colab.research.google.com/drive/1v7iEiXEMq-2YBWQwZ8q8y_slWBNdEcQo?usp=sh
 ### Watch
 The logistic Map
 https://www.youtube.com/watch?v=ovJcsL7vyrk
- 
+
+### Notebook:
+https://colab.research.google.com/drive/1i3iMzha_3ELLFG-8eYSCVoT4EPlhmwo7?usp=sharing
  
   -->
 
