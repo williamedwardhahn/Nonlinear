@@ -122,6 +122,14 @@ https://www.youtube.com/watch?v=ovJcsL7vyrk
 ### Notebook:
 https://colab.research.google.com/drive/1i3iMzha_3ELLFG-8eYSCVoT4EPlhmwo7?usp=sharing
  
-  -->
+ 
+ 
+ ## Lab 5
+ 
+ https://colab.research.google.com/drive/15gp9GiWzbyAYiS5B51D_GmOoYRdldqDA?usp=sharing
+ 
+ 
+ 
+ -->
 
 
