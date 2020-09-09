@@ -128,6 +128,12 @@ https://colab.research.google.com/drive/1i3iMzha_3ELLFG-8eYSCVoT4EPlhmwo7?usp=sh
  https://colab.research.google.com/drive/15gp9GiWzbyAYiS5B51D_GmOoYRdldqDA?usp=sharing
  
  
+ ## Lab 6
+ https://www.youtube.com/watch?v=p_yOueFMe7c
+ 
+ Watch 
+ 
+ 
  
  -->
 
