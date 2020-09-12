@@ -141,6 +141,12 @@ https://colab.research.google.com/drive/1i3iMzha_3ELLFG-8eYSCVoT4EPlhmwo7?usp=sh
  ### Notebook
  ODEs
  
+ 
+ 
+ ## Lab X
+ PDE
+ ### Watch https://www.youtube.com/watch?v=ly4S0oi3Yz8
+ 
  -->
 
 
