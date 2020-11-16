@@ -146,11 +146,16 @@ https://colab.research.google.com/drive/1i3iMzha_3ELLFG-8eYSCVoT4EPlhmwo7?usp=sh
  https://colab.research.google.com/drive/1Z4O77PRHvZd_kF3tVePkqpAnitFuGC_e?usp=sharing
  
 
- <!--
+ ## Lab 7
+
  ### Watch
  https://www.youtube.com/watch?v=vts0YHACsYY&list=PLw2BeOjATqruoac7tS6Clnn-mpxlRkXfV&index=1
  
+  ### Notebook
+ https://colab.research.google.com/drive/1TySKLXsgNbyJJgIk-7Zn8HYSQAl8c9PI?usp=sharing
 
+
+ <!--
   -->
  
 
