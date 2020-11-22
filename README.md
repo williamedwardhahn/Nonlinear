@@ -159,7 +159,7 @@ https://colab.research.google.com/drive/1i3iMzha_3ELLFG-8eYSCVoT4EPlhmwo7?usp=sh
  ## Lab 8
 
  ### Watch
- https://www.youtube.com/watch?v=ay8OMOsf6AQ
+ https://www.youtube.com/watch?v=5qXSeNKXNPQ
  
   ### Notebook
  https://colab.research.google.com/drive/1cDn7eY7AHN5JtEOiZ3v60ZdTg38zfOIa?usp=sharing
