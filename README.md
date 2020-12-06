@@ -165,6 +165,15 @@ https://colab.research.google.com/drive/1i3iMzha_3ELLFG-8eYSCVoT4EPlhmwo7?usp=sh
  https://colab.research.google.com/drive/1cDn7eY7AHN5JtEOiZ3v60ZdTg38zfOIa?usp=sharing
 
 
+ ## Lab Final
+
+ ### Watch
+ https://www.youtube.com/watch?v=FvXwVZPOoBI
+ 
+  ### Notebook
+ https://colab.research.google.com/drive/1iwyIsThpqow4wVV8I3yr8Rr9OmgmD-mB?usp=sharing
+
+
 
  <!--
   -->
