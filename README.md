@@ -39,7 +39,7 @@ For each Lab the following will be submitted the following week to your Github:
 
 ### Watch: 
 The Strange New Science of Chaos
-https://www.youtube.com/watch?v=fUsePzlOmxw&list=PLWmIsQcAzRkqmWnt75z5YGhSe3GuhQGjN
+https://www.youtube.com/watch?v=wdrO0Nwztrg
 
 
 ### Why Python?
